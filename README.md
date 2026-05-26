@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔒 Password Manager CLI
 
 A secure command-line password manager written in Python. Stores encrypted credentials locally using industry-standard cryptography.
@@ -126,3 +127,6 @@ Opens at `http://localhost:8501` with a full GUI:
 - ➕ **Add Entry tab** — add with inline password generator & strength meter
 - 🎲 **Generator tab** — standalone password generator
 - ⚙️ **Settings tab** — change master password, lock vault
+=======
+# password-manager-cli
+>>>>>>> cd004d666db3a2b81964bfdc7c7f724711a527ec
